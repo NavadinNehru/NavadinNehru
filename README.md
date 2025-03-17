@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Navadin Nehru
-- 👀 I’m interested in open source coding.
-- 🌱 I’m currently learning front end development.
-- 💞️ I’m looking to collaborate on open source projects.
+- 👀 I’m interested in problem solving.
+- 🌱 I’m currently learning full stack development.
 - 📫 You can reach me via my email - navadinnehru@gmail.com
 
 <!---
